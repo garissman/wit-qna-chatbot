@@ -1,0 +1,10 @@
+python-dotenv==0.10.1
+requests~=2.32.3
+wit~=6.0.1
+fastapi~=0.112.1
+gunicorn
+uvicorn
+cryptography~=43.0.0
+sqlalchemy~=2.0.32
+
+six~=1.16.0
